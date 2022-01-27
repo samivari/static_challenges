@@ -1,0 +1,30 @@
+header
+{
+  position: left;
+  text-align: left;
+  color: white;
+  font-size: 20;
+  border-style: solid;
+  border-color: #8c0900;
+  background-color: #8c0900;
+}
+
+header1
+{
+  position: right;
+  padding: 2px;
+  text-align: right;
+  color: black;
+  font-size: 15;
+  text-decoration: underline;
+
+}
+
+p
+{
+  color: black;
+  position: left;
+  padding: 1px;
+  text-align: left;
+  font-size: 20;
+}
